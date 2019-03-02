@@ -1,0 +1,27 @@
+title
+========================================================
+author: Kerasidou Maria
+date:02.03.19 
+autosize: true
+
+Intoduction
+
+========================================================
+
+
+methods
+
+
+Slide With Code
+========================================================
+proposed analysis
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
