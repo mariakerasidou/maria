@@ -1,36 +1,46 @@
-title
+Countries with high rates in alcohol consumption show incrised searche for alcohol withdrawal in google trends
 ========================================================
 author: Kerasidou Maria
 date:02.03.19 
 autosize: true
 
 Intoduction
+========================================================
+Many researches proves that reduction of alcohol use after a period of heavy drinking has as a result alcohol withdrawal.
+
+
+Hypothesis
+========================================================
+Increased google searches for alcohol withdrawal appears in countries with high rates in alcohol consumption (USA,Canada)
+in compere to countries with low rates in alcohol consumption (India,Pakistan),the last 12 months
+
 
 ========================================================
+Alcohol Withdrawal: Reduction in alcohol use, especially after a period of heavy drinking, results in alcohol withdrawal. People may have both mental and physical problems. According to DSM5 some symptoms are insomnia,nausea,anxity and hallicinations.
+
+High rates in alcohol consumption: People that drink 10-12 liters of peverages with ethanol per year.
 
 
-methods
 
-
-Slide With Code
+Methods
 ========================================================
+Data from google trends
+
+Terms: alcohol and alcohol withdrawal
+
+I.V: countries with high/low rates in alcohol consumption
+
+D.V: google searches for alcohol withdrawal
+
+
+
+
+
 proposed analysis
-
-```r
-summary(cars)
-```
-
-```
-     speed           dist       
- Min.   : 4.0   Min.   :  2.00  
- 1st Qu.:12.0   1st Qu.: 26.00  
- Median :15.0   Median : 36.00  
- Mean   :15.4   Mean   : 42.98  
- 3rd Qu.:19.0   3rd Qu.: 56.00  
- Max.   :25.0   Max.   :120.00  
-```
-
-Slide With Plot
 ========================================================
+Data from google trends
 
-![plot of chunk unnamed-chunk-2](index-figure/unnamed-chunk-2-1.png)
+Criterion Pearson R
+
+
+Criterion
