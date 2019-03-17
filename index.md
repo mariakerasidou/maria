@@ -1,24 +1,27 @@
-Countries with high rates in alcohol consumption show incrised searche for alcohol withdrawal in google trends
+Countries with high rates in alcohol consumption show increased searches for alcohol withdrawal in google trends
 ========================================================
 author: Kerasidou Maria
-date:02.03.19 
+date:18.03.19 
 autosize: true
 
 Intoduction
 ========================================================
+Countries with high rates in alcohol consumption are USA and Canada where people consume 10-12 litres alcohol per year
+
+Countries with low rates in alcohol consumption are India and Pakistan where people consume 0.5-3 litres alcohol per year
+
 Many researches proves that reduction of alcohol use after a period of heavy drinking has as a result alcohol withdrawal.
 
 
 Hypothesis
 ========================================================
 Increased google searches for alcohol withdrawal appears in countries with high rates in alcohol consumption (USA,Canada)
-in compere to countries with low rates in alcohol consumption (India,Pakistan),the last 12 months
+in compere to countries with low rates in alcohol consumption (India,Pakistan),for the last 12 months
 
 
 ========================================================
 Alcohol Withdrawal: Reduction in alcohol use, especially after a period of heavy drinking, results in alcohol withdrawal. People may have both mental and physical problems. According to DSM5 some symptoms are insomnia,nausea,anxity and hallicinations.
 
-High rates in alcohol consumption: People that drink 10-12 liters of peverages with ethanol per year.
 
 
 
@@ -36,11 +39,18 @@ D.V: google searches for alcohol withdrawal
 
 
 
-proposed analysis
+Proposed Analysis
 ========================================================
 Data from google trends
 
-Criterion Pearson R
+Criterion T-test
 
 
-Criterion
+
+Bibliography
+========================================================
+Hannah R.& Max R.,April 2018,Alcohol Consumption,Our World in Data, retrived from https://ourworldindata.org/alcohol-consumption
+
+American Psychiatric Association.(1994).Diagnostic and statistical manual of mental disorder (4th ed.).Washington,DC:Author
+
+Medina J.,8 Sep.2018,PsychCentral,DSM-5 Alcohol Withdrawal Symptoms,retrived from https://psychcentral.com/disorders/alcohol-withdrawal/
