@@ -10,17 +10,17 @@ Countries with high rates in alcohol consumption are USA and Canada where people
 
 Countries with low rates in alcohol consumption are India and Pakistan where people consume 0.5-3 litres alcohol per year
 
-Many researches proves that reduction of alcohol use after a period of heavy drinking has as a result alcohol withdrawal.
+Many researches prove that reduction of alcohol use after a period of heavy drinking has as a result alcohol withdrawal.
 
 
 Hypothesis
 ========================================================
-Increased google searches for alcohol withdrawal appears in countries with high rates in alcohol consumption (USA,Canada)
-in compere to countries with low rates in alcohol consumption (India,Pakistan),for the last 12 months
+Increased google searches for alcohol withdrawal appear in countries with high rates in alcohol consumption (USA,Canada)
+in comparison to countries with low rates in alcohol consumption (India,Pakistan),for the last 12 months
 
 
 ========================================================
-Alcohol Withdrawal: Reduction in alcohol use, especially after a period of heavy drinking, results in alcohol withdrawal. People may have both mental and physical problems. According to DSM5 some symptoms are insomnia,nausea,anxity and hallicinations.
+Alcohol Withdrawal: Reduction in alcohol use, especially after a period of heavy drinking, results in alcohol withdrawal. People may have both mental and physical problems. According to DSM5 some symptoms are insomnia,nausea,anxiety and hallucinations.
 
 
 
