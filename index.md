@@ -1,6 +1,6 @@
 Countries with high rates in alcohol consumption show increased searches for alcohol withdrawal in google trends
 ========================================================
-author: Kerasidou Maria
+author: Kerasidou Maria 
 date:18.03.19 
 autosize: true
 
@@ -43,7 +43,7 @@ Proposed Analysis
 ========================================================
 Data from google trends
 
-Criterion T-test
+Criterion T-test 
 
 
 
