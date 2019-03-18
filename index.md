@@ -43,7 +43,7 @@ Proposed Analysis
 ========================================================
 Data from google trends
 
-Criterion T-test  
+Criterion T-test
 
 
 
