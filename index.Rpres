@@ -2,7 +2,7 @@ Countries with high rates in alcohol consumption show increased searches for alc
 ========================================================
 author: Kerasidou Maria
 date:18.03.19 
-autosize: true 
+autosize: true  
 
 Introduction 
 ========================================================
